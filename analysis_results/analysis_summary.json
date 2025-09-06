@@ -1,0 +1,30 @@
+{
+  "analysis_date": "2025-08-30 14:51:31",
+  "data_period": "2016-09-04 21:15:19 to 2018-10-17 17:30:18",
+  "total_orders": 99441,
+  "total_customers": 96096,
+  "total_revenue": 14209250.31,
+  "categories_analyzed": 73,
+  "analysis_components": [
+    "category_stats",
+    "temporal_analysis",
+    "customer_behavior",
+    "market_basket",
+    "geographic_analysis",
+    "price_analysis",
+    "cohort_analysis",
+    "business_insights"
+  ],
+  "files_generated": [
+    "comprehensive_category_analysis.csv",
+    "advanced_customer_behavior.csv",
+    "category_correlation_matrix.csv",
+    "monthly_category_trends.csv",
+    "state_performance_analysis.csv",
+    "top_cities_analysis.csv",
+    "comprehensive_price_analysis.csv",
+    "cohort_performance_metrics.csv",
+    "customer_retention_cohorts.csv",
+    "comprehensive_business_insights.json"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "category_insights": [
+    "Top revenue generator: beleza_saude ($1,297,491)",
+    "Highest customer penetration: cama_mesa_banho (9.7%)",
+    "Most volatile pricing: artes"
+  ],
+  "customer_insights": [
+    "Customer repeat rate: 3.0%",
+    "Average customer lifetime value: $148.96",
+    "High-value customers (>$200): 16,105"
+  ],
+  "pricing_insights": [],
+  "basket_insights": [
+    "Average basket size: 1.19 items",
+    "Cross-selling opportunity: 84,999 single-item orders",
+    "Large basket potential: 677 orders with 5+ items"
+  ],
+  "geographic_insights": [
+    "Top performing state: SP",
+    "Geographic concentration: Top 5 states account for 73.9% of revenue"
+  ]
+}

@@ -1,0 +1,787 @@
+{
+  "0000366f3b9a7992bf8c76cfdf3221e2": [
+    {
+      "timestamp": "2018-05-10T10:56:27",
+      "product_category": "cama_mesa_banho",
+      "price": 129.9
+    }
+  ],
+  "0000b849f77a49e4a4ce2b2a4ca5be3f": [
+    {
+      "timestamp": "2018-05-07T11:11:27",
+      "product_category": "beleza_saude",
+      "price": 18.9
+    }
+  ],
+  "0000f46a3911fa3c0805444483337064": [
+    {
+      "timestamp": "2017-03-10T21:05:03",
+      "product_category": "papelaria",
+      "price": 69.0
+    }
+  ],
+  "0000f6ccb0745a6a4b88665a16c9f078": [
+    {
+      "timestamp": "2017-10-12T20:29:41",
+      "product_category": "telefonia",
+      "price": 25.99
+    }
+  ],
+  "0004aac84e0df4da2b147fca70cf8255": [
+    {
+      "timestamp": "2017-11-14T19:45:42",
+      "product_category": "telefonia",
+      "price": 180.0
+    }
+  ],
+  "0004bd2a26a76fe21f786e4fbd80607f": [
+    {
+      "timestamp": "2018-04-05T19:33:16",
+      "product_category": "ferramentas_jardim",
+      "price": 154.0
+    }
+  ],
+  "00050ab1314c0e55a6ca13cf7181fecf": [
+    {
+      "timestamp": "2018-04-20T12:57:23",
+      "product_category": "telefonia",
+      "price": 27.99
+    }
+  ],
+  "00053a61a98854899e70ed204dd4bafe": [
+    {
+      "timestamp": "2018-02-28T11:15:41",
+      "product_category": "esporte_lazer",
+      "price": 191.0
+    },
+    {
+      "timestamp": "2018-02-28T11:15:41",
+      "product_category": "esporte_lazer",
+      "price": 191.0
+    }
+  ],
+  "0005e1862207bf6ccc02e4228effd9a0": [
+    {
+      "timestamp": "2017-03-04T23:32:12",
+      "product_category": "fashion_bolsas_e_acessorios",
+      "price": 135.0
+    }
+  ],
+  "0005ef4cd20d2893f0d9fbd94d3c0d97": [
+    {
+      "timestamp": "2018-03-12T15:22:12",
+      "product_category": "esporte_lazer",
+      "price": 104.9
+    }
+  ],
+  "0006fdc98a402fceb4eb0ee528f6a8d4": [
+    {
+      "timestamp": "2017-07-18T09:23:10",
+      "product_category": "cama_mesa_banho",
+      "price": 13.9
+    }
+  ],
+  "00082cbe03e478190aadbea78542e933": [
+    {
+      "timestamp": "2017-11-19T15:22:02",
+      "product_category": "malas_acessorios",
+      "price": 79.0
+    }
+  ],
+  "00090324bbad0e9342388303bb71ba0a": [
+    {
+      "timestamp": "2018-03-24T14:44:41",
+      "product_category": "cama_mesa_banho",
+      "price": 49.95
+    }
+  ],
+  "000949456b182f53c18b68d6babc79c1": [
+    {
+      "timestamp": "2018-04-23T09:55:46",
+      "product_category": "informatica_acessorios",
+      "price": 64.89
+    }
+  ],
+  "000a5ad9c4601d2bbdd9ed765d5213b3": [
+    {
+      "timestamp": "2017-08-11T13:45:15",
+      "product_category": "beleza_saude",
+      "price": 76.99
+    }
+  ],
+  "000bfa1d2f1a41876493be685390d6d3": [
+    {
+      "timestamp": "2017-09-29T14:46:58",
+      "product_category": "fashion_bolsas_e_acessorios",
+      "price": 35.0
+    }
+  ],
+  "000c8bdb58a29e7115cfc257230fb21b": [
+    {
+      "timestamp": "2017-12-12T22:53:35",
+      "product_category": "cama_mesa_banho",
+      "price": 13.9
+    }
+  ],
+  "000d460961d6dbfa3ec6c9f5805769e1": [
+    {
+      "timestamp": "2018-01-07T22:59:25",
+      "product_category": "telefonia",
+      "price": 28.9
+    }
+  ],
+  "000de6019bb59f34c099a907c151d855": [
+    {
+      "timestamp": "2017-08-17T19:10:33",
+      "product_category": "cama_mesa_banho",
+      "price": 89.9
+    },
+    {
+      "timestamp": "2017-08-17T19:10:33",
+      "product_category": "cama_mesa_banho",
+      "price": 139.9
+    }
+  ],
+  "000e309254ab1fc5ba99dd469d36bdb4": [
+    {
+      "timestamp": "2018-06-25T09:53:57",
+      "product_category": "fashion_underwear_e_moda_praia",
+      "price": 59.9
+    },
+    {
+      "timestamp": "2018-06-25T09:53:57",
+      "product_category": "fashion_underwear_e_moda_praia",
+      "price": 59.9
+    }
+  ],
+  "000ec5bff359e1c0ad76a81a45cb598f": [
+    {
+      "timestamp": "2018-08-21T11:34:26",
+      "product_category": "eletrodomesticos",
+      "price": 14.96
+    }
+  ],
+  "000ed48ceeb6f4bf8ad021a10a3c7b43": [
+    {
+      "timestamp": "2018-05-20T16:26:06",
+      "product_category": "informatica_acessorios",
+      "price": 12.88
+    }
+  ],
+  "000fbf0473c10fc1ab6f8d2d286ce20c": [
+    {
+      "timestamp": "2018-07-26T09:43:52",
+      "product_category": "instrumentos_musicais",
+      "price": 119.87
+    },
+    {
+      "timestamp": "2018-07-26T09:43:52",
+      "product_category": "instrumentos_musicais",
+      "price": 119.87
+    },
+    {
+      "timestamp": "2018-07-26T09:43:52",
+      "product_category": "brinquedos",
+      "price": 23.03
+    },
+    {
+      "timestamp": "2018-07-26T09:43:52",
+      "product_category": "brinquedos",
+      "price": 23.03
+    }
+  ],
+  "0010a452c6d13139e50b57f19f52e04e": [
+    {
+      "timestamp": "2017-07-11T11:22:43",
+      "product_category": "casa_conforto",
+      "price": 299.0
+    }
+  ],
+  "0010fb34b966d44409382af9e8fd5b77": [
+    {
+      "timestamp": "2018-03-05T17:08:53",
+      "product_category": "cama_mesa_banho",
+      "price": 49.95
+    }
+  ],
+  "001147e649a7b1afd577e873841632dd": [
+    {
+      "timestamp": "2017-08-31T17:12:56",
+      "product_category": "utilidades_domesticas",
+      "price": 85.0
+    },
+    {
+      "timestamp": "2017-08-31T17:12:56",
+      "product_category": "utilidades_domesticas",
+      "price": 85.0
+    }
+  ],
+  "00115fc7123b5310cf6d3a3aa932699e": [
+    {
+      "timestamp": "2017-01-21T21:58:35",
+      "product_category": "esporte_lazer",
+      "price": 59.99
+    }
+  ],
+  "0011805441c0d1b68b48002f1d005526": [
+    {
+      "timestamp": "2017-04-24T13:36:48",
+      "product_category": "informatica_acessorios",
+      "price": 269.0
+    }
+  ],
+  "0011857aff0e5871ce5eb429f21cdaf5": [
+    {
+      "timestamp": "2017-06-28T11:08:38",
+      "product_category": "malas_acessorios",
+      "price": 174.33
+    }
+  ],
+  "0011c98589159d6149979563c504cb21": [
+    {
+      "timestamp": "2017-08-05T14:08:47",
+      "product_category": "eletroportateis",
+      "price": 99.99
+    }
+  ],
+  "0012929d977a8d7280bb277c1e5f589d": [
+    {
+      "timestamp": "2017-10-17T15:46:36",
+      "product_category": "relogios_presentes",
+      "price": 129.9
+    }
+  ],
+  "0014a5a58da615f7b01a4f5e194bf5ea": [
+    {
+      "timestamp": "2018-01-18T20:49:36",
+      "product_category": "beleza_saude",
+      "price": 88.0
+    }
+  ],
+  "0015752e079902b12cd00b9b7596276b": [
+    {
+      "timestamp": "2018-08-02T18:23:51",
+      "product_category": "malas_acessorios",
+      "price": 29.9
+    },
+    {
+      "timestamp": "2018-08-02T18:23:51",
+      "product_category": "malas_acessorios",
+      "price": 29.9
+    }
+  ],
+  "00172711b30d52eea8b313a7f2cced02": [
+    {
+      "timestamp": "2018-07-28T00:23:49",
+      "product_category": "papelaria",
+      "price": 74.5
+    },
+    {
+      "timestamp": "2018-08-13T09:14:07",
+      "product_category": NaN,
+      "price": 0.0
+    }
+  ],
+  "00191a9719ef48ebb5860b130347bf33": [
+    {
+      "timestamp": "2017-04-19T11:32:09",
+      "product_category": "cama_mesa_banho",
+      "price": 47.9
+    }
+  ],
+  "001926cef41060fae572e2e7b30bd2a4": [
+    {
+      "timestamp": "2017-08-17T12:55:47",
+      "product_category": "eletronicos",
+      "price": 18.9
+    },
+    {
+      "timestamp": "2017-08-17T12:55:47",
+      "product_category": "informatica_acessorios",
+      "price": 29.89
+    }
+  ],
+  "001928b561575b2821c92254a2327d06": [
+    {
+      "timestamp": "2018-08-24T21:17:00",
+      "product_category": "moveis_sala",
+      "price": 109.9
+    },
+    {
+      "timestamp": "2018-08-24T21:17:00",
+      "product_category": "cama_mesa_banho",
+      "price": 26.99
+    }
+  ],
+  "00196c4c9a3af7dd2ad10eade69c926f": [
+    {
+      "timestamp": "2018-07-28T09:29:12",
+      "product_category": "informatica_acessorios",
+      "price": 22.32
+    }
+  ],
+  "00196fdb2bf9edfc35e88ebfbcf8d781": [
+    {
+      "timestamp": "2018-02-22T19:06:44",
+      "product_category": "eletronicos",
+      "price": 12.9
+    }
+  ],
+  "0019da6aa6bcb27cc32f1249bd12da05": [
+    {
+      "timestamp": "2018-02-11T00:55:30",
+      "product_category": "utilidades_domesticas",
+      "price": 79.9
+    }
+  ],
+  "0019e8c501c85848ac0966d45226fa1d": [
+    {
+      "timestamp": "2018-05-01T09:25:32",
+      "product_category": "esporte_lazer",
+      "price": 159.99
+    }
+  ],
+  "001a2bf0e46c684031af91fb2bce149d": [
+    {
+      "timestamp": "2017-06-29T22:43:49",
+      "product_category": "utilidades_domesticas",
+      "price": 24.88
+    }
+  ],
+  "001a34eb30ecb8e3aacb07c475ca4dd1": [
+    {
+      "timestamp": "2018-07-11T19:49:54",
+      "product_category": "utilidades_domesticas",
+      "price": 151.9
+    }
+  ],
+  "001a3a8e11d76c9a366c31a4aa2cc529": [
+    {
+      "timestamp": "2018-05-21T01:24:25",
+      "product_category": "eletronicos",
+      "price": 9.0
+    }
+  ],
+  "001ae44fa04911a9e9577356dce6c63c": [
+    {
+      "timestamp": "2017-11-06T17:35:49",
+      "product_category": "pet_shop",
+      "price": 99.9
+    }
+  ],
+  "001ae5a1788703d64536c30362503e49": [
+    {
+      "timestamp": "2017-12-08T11:32:44",
+      "product_category": "ferramentas_jardim",
+      "price": 89.99
+    }
+  ],
+  "001deb796b28a3a128d6113857569aa4": [
+    {
+      "timestamp": "2018-06-22T16:07:29",
+      "product_category": "utilidades_domesticas",
+      "price": 39.9
+    }
+  ],
+  "001f3c4211216384d5fe59b041ce1461": [
+    {
+      "timestamp": "2017-03-19T18:34:36",
+      "product_category": "utilidades_domesticas",
+      "price": 24.88
+    }
+  ],
+  "002043098f10ba39a4600b6c52fbfe3c": [
+    {
+      "timestamp": "2017-03-26T16:45:59",
+      "product_category": "moveis_escritorio",
+      "price": 176.99
+    }
+  ],
+  "002311514717ca8b65b09a26cdf7b91a": [
+    {
+      "timestamp": "2018-06-27T11:34:34",
+      "product_category": "automotivo",
+      "price": 116.25
+    }
+  ],
+  "0023557a94bef0038066b5d1b3dc763e": [
+    {
+      "timestamp": "2018-03-28T19:53:14",
+      "product_category": "automotivo",
+      "price": 89.9
+    }
+  ],
+  "002471155ecd08d208d1376720e2a907": [
+    {
+      "timestamp": "2018-08-08T20:36:30",
+      "product_category": "utilidades_domesticas",
+      "price": 68.9
+    }
+  ],
+  "00256bf7b05c08f6a5849df3d0a64f1f": [
+    {
+      "timestamp": "2018-06-01T17:41:18",
+      "product_category": "moveis_decoracao",
+      "price": 39.5
+    }
+  ],
+  "0025795df7a7d077c4c90162fa820085": [
+    {
+      "timestamp": "2018-07-24T11:09:11",
+      "product_category": "papelaria",
+      "price": 79.0
+    },
+    {
+      "timestamp": "2018-07-24T11:09:11",
+      "product_category": "papelaria",
+      "price": 98.9
+    }
+  ],
+  "0027324a96d26a2bc7d69262f83c8403": [
+    {
+      "timestamp": "2018-03-25T11:51:37",
+      "product_category": "perfumaria",
+      "price": 37.9
+    }
+  ],
+  "0028a7d8db7b0247652509358ad8d755": [
+    {
+      "timestamp": "2017-12-13T15:49:39",
+      "product_category": "moveis_escritorio",
+      "price": 274.0
+    },
+    {
+      "timestamp": "2017-12-13T15:49:39",
+      "product_category": "moveis_escritorio",
+      "price": 274.0
+    }
+  ],
+  "0028cfeb9dfcd3628a56d5b6400deef5": [
+    {
+      "timestamp": "2018-01-07T00:12:45",
+      "product_category": "eletronicos",
+      "price": 95.9
+    }
+  ],
+  "00293787e2aec37a9c253b63fdfe2049": [
+    {
+      "timestamp": "2017-10-27T14:25:35",
+      "product_category": "beleza_saude",
+      "price": 118.9
+    },
+    {
+      "timestamp": "2017-10-27T14:25:35",
+      "product_category": "beleza_saude",
+      "price": 118.9
+    }
+  ],
+  "0029bd580d3012618731f5abb174a07f": [
+    {
+      "timestamp": "2017-11-02T13:24:21",
+      "product_category": "moveis_decoracao",
+      "price": 39.9
+    }
+  ],
+  "002aba8c1af80acacef6e011f9f23262": [
+    {
+      "timestamp": "2018-02-27T12:47:48",
+      "product_category": "construcao_ferramentas_construcao",
+      "price": 199.9
+    }
+  ],
+  "002ae492472e45ad6ebeb7a625409392": [
+    {
+      "timestamp": "2017-10-08T23:56:02",
+      "product_category": "beleza_saude",
+      "price": 44.99
+    },
+    {
+      "timestamp": "2017-10-08T23:56:02",
+      "product_category": "beleza_saude",
+      "price": 58.99
+    }
+  ],
+  "002b4cd83fabaffaa475f78ea5ef3e08": [
+    {
+      "timestamp": "2017-02-01T13:53:16",
+      "product_category": "fashion_bolsas_e_acessorios",
+      "price": 49.9
+    }
+  ],
+  "002bdeb33da5b1b3ce8b9c822f749c82": [
+    {
+      "timestamp": "2017-12-05T19:04:42",
+      "product_category": "beleza_saude",
+      "price": 23.99
+    }
+  ],
+  "002cdf87d4c03f08f7eb4551a923affc": [
+    {
+      "timestamp": "2017-10-31T17:32:22",
+      "product_category": "moveis_escritorio",
+      "price": 196.99
+    }
+  ],
+  "002d3bd901608f67c3fc11eaaa842b13": [
+    {
+      "timestamp": "2018-01-15T18:39:36",
+      "product_category": "bebidas",
+      "price": 19.49
+    }
+  ],
+  "002d71b244beb91ca7030b15ab526446": [
+    {
+      "timestamp": "2017-05-22T22:24:51",
+      "product_category": "livros_interesse_geral",
+      "price": 115.0
+    }
+  ],
+  "002da6dde369f6a8b4c999ed61eb5a87": [
+    {
+      "timestamp": "2018-04-12T11:03:44",
+      "product_category": "utilidades_domesticas",
+      "price": 44.99
+    }
+  ],
+  "002eb8b96288f3804e21d2777ac29895": [
+    {
+      "timestamp": "2017-07-22T13:24:06",
+      "product_category": "beleza_saude",
+      "price": 119.9
+    }
+  ],
+  "002ed12115742033f015cb3c269ccf68": [
+    {
+      "timestamp": "2018-01-30T13:50:27",
+      "product_category": "eletronicos",
+      "price": 97.9
+    }
+  ],
+  "002ef00822613c94613e60e03b169fef": [
+    {
+      "timestamp": "2018-02-14T20:56:34",
+      "product_category": "cama_mesa_banho",
+      "price": 92.9
+    }
+  ],
+  "002feefec5af0a3b26ee7839c66d205e": [
+    {
+      "timestamp": "2017-10-29T12:19:51",
+      "product_category": "ferramentas_jardim",
+      "price": 59.9
+    }
+  ],
+  "003035f5ec76f2220098377482de93c9": [
+    {
+      "timestamp": "2017-08-28T21:35:08",
+      "product_category": "consoles_games",
+      "price": 49.99
+    }
+  ],
+  "003162bf0351f47a1a247992b8b9b42d": [
+    {
+      "timestamp": "2018-07-14T15:45:27",
+      "product_category": "livros_interesse_geral",
+      "price": 514.9
+    }
+  ],
+  "00324c9f4d710e7bac5c5ba679714430": [
+    {
+      "timestamp": "2017-06-21T20:40:38",
+      "product_category": "utilidades_domesticas",
+      "price": 29.9
+    },
+    {
+      "timestamp": "2017-06-21T20:40:38",
+      "product_category": "utilidades_domesticas",
+      "price": 29.9
+    }
+  ],
+  "0032c76b20340da25249092a268ce66c": [
+    {
+      "timestamp": "2016-10-06T11:32:00",
+      "product_category": "brinquedos",
+      "price": 128.9
+    }
+  ],
+  "0032ca69771a7758ce643258bb9e4ac7": [
+    {
+      "timestamp": "2018-07-16T15:32:50",
+      "product_category": "moveis_sala",
+      "price": 45.0
+    }
+  ],
+  "0033f4a2887e07e25aa1204d482f41ba": [
+    {
+      "timestamp": "2018-06-26T01:07:23",
+      "product_category": "cool_stuff",
+      "price": 350.0
+    }
+  ],
+  "00344274804f3b8003de1b0562ae01df": [
+    {
+      "timestamp": "2018-07-09T14:09:25",
+      "product_category": "beleza_saude",
+      "price": 188.0
+    }
+  ],
+  "0034c76b7e6a17d738375b99afc2f01e": [
+    {
+      "timestamp": "2018-05-07T16:17:00",
+      "product_category": "eletrodomesticos",
+      "price": 26.0
+    }
+  ],
+  "0035029989e6fc5cf030918a5f9f2037": [
+    {
+      "timestamp": "2018-05-12T14:28:16",
+      "product_category": "malas_acessorios",
+      "price": 219.0
+    },
+    {
+      "timestamp": "2018-05-12T14:28:16",
+      "product_category": "malas_acessorios",
+      "price": 219.0
+    }
+  ],
+  "003650b504826ea534e02eba0ab58dd5": [
+    {
+      "timestamp": "2018-01-17T12:03:01",
+      "product_category": "perfumaria",
+      "price": 13.99
+    }
+  ],
+  "0036a074f98b80c4f1fc33dbbcf9c552": [
+    {
+      "timestamp": "2017-05-12T09:24:26",
+      "product_category": "utilidades_domesticas",
+      "price": 16.99
+    }
+  ],
+  "0036b4a3d09ad551a5188c2e374da402": [
+    {
+      "timestamp": "2017-08-09T16:14:49",
+      "product_category": "moveis_decoracao",
+      "price": 148.0
+    }
+  ],
+  "0036d365b138cc0ee06bed755bcb5044": [
+    {
+      "timestamp": "2018-01-31T14:41:00",
+      "product_category": "artigos_de_natal",
+      "price": 79.9
+    }
+  ],
+  "00370dfde3d012c420d29657afc2fc8b": [
+    {
+      "timestamp": "2018-01-29T12:54:38",
+      "product_category": "cool_stuff",
+      "price": 215.0
+    }
+  ],
+  "00377a18050b898b93e2c774be9947db": [
+    {
+      "timestamp": "2017-11-25T13:40:05",
+      "product_category": "beleza_saude",
+      "price": 49.99
+    }
+  ],
+  "0037aa56b017c105c3a9d47af71fff98": [
+    {
+      "timestamp": "2018-01-26T16:52:56",
+      "product_category": "automotivo",
+      "price": 425.0
+    }
+  ],
+  "0037d2bbb9ebc39d9114aea27ee16d72": [
+    {
+      "timestamp": "2017-03-27T12:24:28",
+      "product_category": "moveis_decoracao",
+      "price": 119.9
+    }
+  ],
+  "0037eb1ff742ee2e71ba887f65f3c6f3": [
+    {
+      "timestamp": "2017-07-13T09:00:21",
+      "product_category": "utilidades_domesticas",
+      "price": 199.0
+    }
+  ],
+  "003800162424b7b5b3d75c9cf22a66e7": [
+    {
+      "timestamp": "2018-04-01T21:29:34",
+      "product_category": "ferramentas_jardim",
+      "price": 85.5
+    }
+  ],
+  "00391594070baf8603f5fdc1d0c6a48c": [
+    {
+      "timestamp": "2018-08-05T20:33:28",
+      "product_category": "informatica_acessorios",
+      "price": 105.0
+    }
+  ],
+  "003a5571a07dcf09bf117d13d2980ba3": [
+    {
+      "timestamp": "2018-07-25T10:57:54",
+      "product_category": "bebes",
+      "price": 149.9
+    }
+  ],
+  "003a7a8eb096ed3cbf713d2def1ca701": [
+    {
+      "timestamp": "2018-08-14T14:23:59",
+      "product_category": "ferramentas_jardim",
+      "price": 99.99
+    }
+  ],
+  "003ac9408252444b489b1bfc013f5f8c": [
+    {
+      "timestamp": "2018-03-16T17:56:52",
+      "product_category": "moveis_decoracao",
+      "price": 18.75
+    }
+  ],
+  "003ae409f37c3c30cb1c974af3a42692": [
+    {
+      "timestamp": "2018-08-15T11:37:45",
+      "product_category": "pet_shop",
+      "price": 195.0
+    }
+  ],
+  "003c2067070f5b3d923235b1ea1cc17b": [
+    {
+      "timestamp": "2018-08-06T16:01:58",
+      "product_category": "esporte_lazer",
+      "price": 109.7
+    }
+  ],
+  "003c457932a554e4df13834237b1ed00": [
+    {
+      "timestamp": "2018-01-05T10:23:18",
+      "product_category": "cama_mesa_banho",
+      "price": 129.9
+    }
+  ],
+  "003d56767e53e08671de00da3fba8d40": [
+    {
+      "timestamp": "2017-12-01T12:48:21",
+      "product_category": "cama_mesa_banho",
+      "price": 157.0
+    }
+  ],
+  "003db7adfcdc49857b095a50191b6c9d": [
+    {
+      "timestamp": "2018-05-02T12:41:41",
+      "product_category": "livros_interesse_geral",
+      "price": 524.9
+    }
+  ],
+  "003e28cb6fab8a0901bff9229612375f": [
+    {
+      "timestamp": "2017-03-13T14:54:17",
+      "product_category": "brinquedos",
+      "price": 119.99
+    }
+  ]
+}

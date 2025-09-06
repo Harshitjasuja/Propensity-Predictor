@@ -1,0 +1,18 @@
+{
+  "training_type": "unbiased",
+  "best_model_name": "lightgbm",
+  "best_auc_score": 0.9171293161220702,
+  "all_results": {
+    "logistic_regression": 0.8367349542713598,
+    "random_forest": 0.9138890253149725,
+    "xgboost": 0.9169643317210411,
+    "lightgbm": 0.9171293161220702
+  },
+  "training_date": "2025-08-28 16:00:17",
+  "dataset_info": {
+    "training_samples": 114340,
+    "test_samples": 28829,
+    "features": 20,
+    "baseline_repurchase_rate": 0.1501266086232613
+  }
+}

@@ -1,0 +1,63 @@
+support,itemsets
+0.001791822772438508,frozenset({'agro_industria_e_comercio'})
+0.004886789379377749,frozenset({'alimentos'})
+0.0034207525655644243,frozenset({'alimentos_bebidas'})
+0.001303143834500733,frozenset({'artes'})
+0.001303143834500733,frozenset({'artigos_de_natal'})
+0.002606287669001466,frozenset({'audio'})
+0.030216647662485746,frozenset({'automotivo'})
+0.023700928489982082,frozenset({'bebes'})
+0.0041537709724710865,frozenset({'bebidas'})
+0.06979964163544551,frozenset({'beleza_saude'})
+0.026795895096921322,frozenset({'brinquedos'})
+0.14285714285714285,frozenset({'cama_mesa_banho'})
+0.007085844600097735,frozenset({'casa_conforto'})
+0.008714774393223651,frozenset({'casa_construcao'})
+0.0032578595862518323,frozenset({'climatizacao'})
+0.008877667372536244,frozenset({'consoles_games'})
+0.010017918227724385,frozenset({'construcao_ferramentas_construcao'})
+0.004316663951783678,frozenset({'construcao_ferramentas_iluminacao'})
+0.003909431503502199,frozenset({'construcao_ferramentas_jardim'})
+0.002036162241407395,frozenset({'construcao_ferramentas_seguranca'})
+0.02313080306238801,frozenset({'cool_stuff'})
+0.001791822772438508,frozenset({'eletrodomesticos'})
+0.0010588043655318457,frozenset({'eletrodomesticos_2'})
+0.018325460172666556,frozenset({'eletronicos'})
+0.004886789379377749,frozenset({'eletroportateis'})
+0.07818863007004398,frozenset({'esporte_lazer'})
+0.018406906662322853,frozenset({'fashion_bolsas_e_acessorios'})
+0.0021176087310636913,frozenset({'fashion_calcados'})
+0.0018732692620948036,frozenset({'fashion_roupa_masculina'})
+0.0010588043655318457,frozenset({'fashion_underwear_e_moda_praia'})
+0.056768203290438184,frozenset({'ferramentas_jardim'})
+0.002687734158657762,frozenset({'industria_comercio_e_negocios'})
+0.07794429060107509,frozenset({'informatica_acessorios'})
+0.004886789379377749,frozenset({'instrumentos_musicais'})
+0.0037465385241896073,frozenset({'livros_interesse_geral'})
+0.0011402508551881414,frozenset({'livros_tecnicos'})
+0.008877667372536244,frozenset({'malas_acessorios'})
+0.003583645544877016,frozenset({'market_place'})
+0.0031764130965955366,frozenset({'moveis_cozinha_area_de_servico_jantar_e_jardim'})
+0.12575338002932074,frozenset({'moveis_decoracao'})
+0.022153445186512463,frozenset({'moveis_escritorio'})
+0.0014660368138133247,frozenset({'moveis_quarto'})
+0.006352826193191073,frozenset({'moveis_sala'})
+0.020768854862355433,frozenset({'papelaria'})
+0.0021176087310636913,frozenset({'pcs'})
+0.025737090731389477,frozenset({'perfumaria'})
+0.01987294347613618,frozenset({'pet_shop'})
+0.037628278221208664,frozenset({'relogios_presentes'})
+0.0029320736276266493,frozenset({'sinalizacao_e_seguranca'})
+0.03323016777976869,frozenset({'telefonia'})
+0.00252484117934517,frozenset({'telefonia_fixa'})
+0.07729271868382473,frozenset({'utilidades_domesticas'})
+0.0015474833034696204,"frozenset({'bebes', 'brinquedos'})"
+0.001384590324157029,"frozenset({'bebes', 'cama_mesa_banho'})"
+0.0016289297931259162,"frozenset({'bebes', 'cool_stuff'})"
+0.0011402508551881414,"frozenset({'esporte_lazer', 'beleza_saude'})"
+0.00350219905522072,"frozenset({'casa_conforto', 'cama_mesa_banho'})"
+0.005701254275940707,"frozenset({'moveis_decoracao', 'cama_mesa_banho'})"
+0.0016289297931259162,"frozenset({'utilidades_domesticas', 'cama_mesa_banho'})"
+0.0010588043655318457,"frozenset({'casa_construcao', 'moveis_decoracao'})"
+0.001384590324157029,"frozenset({'ferramentas_jardim', 'moveis_decoracao'})"
+0.0019547157517510994,"frozenset({'moveis_decoracao', 'utilidades_domesticas'})"

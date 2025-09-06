@@ -1,0 +1,21 @@
+state,city,orders,customers,revenue
+SP,sao paulo,15540,14984,2008254.39
+RJ,rio de janeiro,6882,6620,1030715.84
+MG,belo horizonte,2773,2672,366981.33
+DF,brasilia,2131,2069,312274.57
+PR,curitiba,1521,1465,218532.47
+BA,salvador,1245,1209,196675.55
+RS,porto alegre,1379,1326,195635.58
+SP,campinas,1444,1398,195626.49
+SP,guarulhos,1189,1153,155216.85
+RJ,niteroi,849,811,132616.38
+GO,goiania,692,671,114398.05
+SP,sao bernardo do campo,938,908,108724.13
+CE,fortaleza,654,643,105098.8
+SP,santos,713,692,102332.34
+SP,santo andre,796,768,94905.57
+PE,recife,613,590,91941.0
+SP,jundiai,565,547,88434.54
+SC,florianopolis,570,546,88049.53
+SP,osasco,746,717,86017.14
+PA,belem,443,432,82138.94

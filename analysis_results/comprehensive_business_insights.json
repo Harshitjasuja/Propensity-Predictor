@@ -1,0 +1,49 @@
+{
+  "executive_summary": {
+    "total_categories": 73,
+    "total_revenue": "$14,018,294",
+    "avg_revenue_per_category": "$192,031",
+    "top_revenue_category": "beleza_saude",
+    "market_concentration": "40.0% (top 5 categories)"
+  },
+  "category_insights": [
+    "Revenue leader: beleza_saude generates $1,297,491 (9.3% market share)",
+    "Highest penetration: cama_mesa_banho reaches 9.5% of customers",
+    "Most competitive pricing: casa_conforto_2 (competitiveness score: 4.84)",
+    "Price volatility concern: Categories with high price volatility may indicate inconsistent value proposition",
+    "Growth opportunity: 73 categories have <10% penetration"
+  ],
+  "customer_insights": [
+    "Customer retention: 3.1% repeat purchase rate",
+    "High-value segment: 16,272 customers spent >$200",
+    "Average customer LTV: $147.87",
+    "Cross-category engagement: Customers buy from 1.0 categories on average",
+    "Segmentation opportunity: 18310 customers at risk of churn"
+  ],
+  "market_opportunities": [
+    "Cross-sell potential: 0 single-item orders could be expanded",
+    "Basket optimization: 0 orders show cross-category purchasing",
+    "Association rules: 0 strong product associations identified",
+    "Bundle opportunities: Categories with high lift scores are ideal for product bundles",
+    "Revenue expansion: Average basket size is 0.00 items"
+  ],
+  "operational_insights": [
+    "Pricing optimization: 68 categories show high price volatility",
+    "Value positioning: Categories with high value_score represent pricing sweet spots",
+    "Premium segment: Categories with price_premium_index >1.5 target affluent customers",
+    "Cost management: Freight costs vary significantly across categories",
+    "Payment preferences: Installment usage correlates with higher order values"
+  ],
+  "strategic_recommendations": [
+    "Focus retention campaigns on 'At Risk' and 'Cannot Lose Them' customer segments",
+    "Implement cross-sell recommendations based on strong association rules",
+    "Develop premium product lines for high-value customer segments",
+    "Optimize pricing for categories with high coefficient of variation",
+    "Create targeted campaigns for single-item buyers to increase basket size",
+    "Leverage seasonal patterns for inventory and marketing planning",
+    "Geographic expansion opportunities in underperforming states",
+    "Category-specific pricing strategies based on demand elasticity",
+    "Customer lifecycle marketing based on cohort analysis insights",
+    "Bundle creation using high-lift association rules"
+  ]
+}
